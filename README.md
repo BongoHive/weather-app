@@ -36,5 +36,5 @@ If you need clarity on the above, create [an issue here](https://github.com/Bong
 
 When done, send a link of github implementation of the solution to **cynthia@bongohive.co.zm** with a copy of your cv
 
-**Deadline:** 5PM, Friday, 12th April, 2019
+**Deadline:** 5PM, Friday, 12th April, 2019  
 **Note:** The github repo should have a tracked history
