@@ -1,12 +1,13 @@
 # Weather app
 
-Create a simple weather app in react-native app, the interface should be intuitive and easy to use.
+Create a simple weather app in react-native, the interface should be intuitive and easy to use.
 
 ### Features 
 
 - It should display the weather of the current location.
 - It should allow filtering to check other locations.
 - Display other details like the current date, city name and country and time. 
+- It should have more than one screen
 
 > Use the openweathermap API, 
 https://openweathermap.org/
