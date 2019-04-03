@@ -2,12 +2,6 @@
 
 Create a simple weather app in react-native, the interface should be intuitive and easy to use.
 
-## To-do 
-
-Fork this repo and work on your own fork, once you are done create a pull request against the master with your name as a branch name.  
-
-**Note:** The Branch name should match your name, like *john-doe*  
-
 ### Features 
 
 - It should display the weather of the current location.
