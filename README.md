@@ -29,3 +29,11 @@ https://openweathermap.org/
 ### Questions
 
 If you need clarity on the above, create [an issue here](https://github.com/BongoHive/weather-app/issues)
+
+### Good to have skills
+
+- Basic understanding of `Javascript`
+- Comfortable with `react` and `react-native`
+- Able to collaborate in a team
+- Basic knowledge of `git`
+- Able to learn quickly
